@@ -10,7 +10,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Insert your Telegram bot token here
-BOT_TOKEN = '8013090789:AAGwVR_5bEGoZGcOhHG-7jc4bxmmubG--bU'
+BOT_TOKEN = '7606440143:AAEpYpHK60PY8vQ3s6HpXDfVI_rb55ayA2M'
  
 # Admin user IDs
 ADMIN_IDS = {"6479495033"}
@@ -23,7 +23,7 @@ flooding_process = None
 flooding_command = None
 
 
-DEFAULT_THREADS = 1500
+DEFAULT_THREADS = 1700
 
 
 users = {}
